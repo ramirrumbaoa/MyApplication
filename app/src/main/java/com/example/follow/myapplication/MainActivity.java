@@ -26,7 +26,14 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+
+
+
+
     }
+
+    public void test(){}
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
